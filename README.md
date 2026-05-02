@@ -1,3 +1,11 @@
+The performance optimization system for AI agent harnesses.
+
+Not just configs. A complete system: skills, instincts, memory optimization, continuous learning, security scanning, and research-first development. Production-ready agents, skills, hooks, rules, MCP configurations, and legacy command shims evolved over 10+ months of intensive daily use building real products.
+
+Works across Claude Code, Codex, Cursor, OpenCode, Gemini, and other AI agent harnesses.
+
+v2.0.0-rc.1 adds the public Hermes operator story on top of that reusable layer: start with the Hermes setup guide, then review the rc.1 release notes and cross-harness architecture.
+
 **Language:** English 
 # ai-agent-harnesses
 
