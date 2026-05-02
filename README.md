@@ -1,6 +1,5 @@
 **Language:** English 
 # ai-agent-harnesses
-![AI Agent Harnesses — the performance system for AI agent harnesses](assets/hero.png)
 
 ## The Guides
 
