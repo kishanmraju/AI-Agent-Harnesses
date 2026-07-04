@@ -1511,42 +1511,6 @@ These configs work for my workflow. You should:
 3. Remove what you don't use
 4. Add your own patterns
 
----
-
-## Community Projects
-
-Projects built on or inspired by Everything Claude Code:
-
-| Project | Description |
-|---------|-------------|
-| [EVC](https://github.com/SaigonXIII/evc) | Marketing agent workspace — 42 commands for content operators, brand governance, and multi-channel publishing. [Visual overview](https://saigonxiii.github.io/evc). |
-
-Built something with ECC? Open a PR to add it here.
-
----
-
-## Sponsors
-
-This project is free and open source. Sponsors help keep it maintained and growing.
-
-[**Become a Sponsor**](https://github.com/sponsors/affaan-m) | [Sponsor Tiers](SPONSORS.md) | [Sponsorship Program](SPONSORING.md)
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=affaan-m/everything-claude-code&type=Date)](https://star-history.com/#affaan-m/everything-claude-code&Date)
-
----
-
-## Links
-
-- **Shorthand Guide (Start Here):** [The Shorthand Guide to Everything Claude Code](https://x.com/affaanmustafa/status/2012378465664745795)
-- **Longform Guide (Advanced):** [The Longform Guide to Everything Claude Code](https://x.com/affaanmustafa/status/2014040193557471352)
-- **Security Guide:** [Security Guide](./the-security-guide.md) | [Thread](https://x.com/affaanmustafa/status/2033263813387223421)
-- **Follow:** [@affaanmustafa](https://x.com/affaanmustafa)
-
----
 
 ## License
 
